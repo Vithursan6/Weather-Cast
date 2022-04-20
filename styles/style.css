@@ -20,6 +20,11 @@
 .weekly-container {
   display: flex;
   flex-direction: row;
+  text-align: center;
+}
+
+.daily-container {
+  text-align: center;
 }
 
 .data-container {
@@ -62,6 +67,8 @@
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 20px;
   border-radius: 10px;
   box-shadow: 3px 3px 3px black;
   padding-bottom: 10px;
@@ -78,6 +85,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  column-gap: 20px;
   flex-wrap: wrap;
   border-radius: 10px;
   box-shadow: 3px 3px 3px black;
@@ -190,5 +198,10 @@
 
   .card-content {
     padding: 20px;
+  }
+
+  .weekly-container {
+    display: flex;
+    flex-direction: column;
   }
 }
