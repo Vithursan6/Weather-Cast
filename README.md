@@ -1,4 +1,4 @@
-# Weather-cast
+# Weather-Cast
 <br>
 
 ---
