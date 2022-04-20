@@ -71,7 +71,11 @@ THEN I am again presented with current and future conditions for that city
 
 Github Repository:
 
- - https://github.com/Vithursan6/weather-dash
+ - https://github.com/Vithursan6/Weather-Cast
+
+Deployed Application:
+
+- https://vithursan6.github.io/Weather-Cast/
 
 ---
 
